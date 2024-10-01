@@ -1,0 +1,2 @@
+A dataset containing information about anonymized patients and the results from their blood tests.
+The dataset is used to classify patients not only whether they have anemia but also the type of anemia they might have.
