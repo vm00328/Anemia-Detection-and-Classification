@@ -1,0 +1,13 @@
+numpy
+pandas
+statsmodels
+scikit-learn
+pingouin
+imbalanced-learn
+plotly
+matplotlib
+seaborn
+xgboost
+lightgbm
+catboost
+ydata-profiling
